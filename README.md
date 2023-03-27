@@ -4,7 +4,7 @@ A simple implementation of Kalman filter in single object tracking
 
 https://github.com/yjy249/kalman-filter/blob/main/kalman-filter-in-single-object-tracking/kalman-filter-in-object-tracking.mp4
 
-![image](https://github.com/yjy249/kalman-filter/blob/main/kalman-filter-in-single-object-tracking/kalman-filter-in-object-tracking.mp4)(https://github.com/yjy249/kalman-filter/blob/main/kalman-filter-in-single-object-tracking/kalman.png)
+![image](https://github.com/yjy249/kalman-filter/blob/main/kalman-filter-in-single-object-tracking/kalman.png)
 ## use
 1.extract labels.7z in /data/labels
 
